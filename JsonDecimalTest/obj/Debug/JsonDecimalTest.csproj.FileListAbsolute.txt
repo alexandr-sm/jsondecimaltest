@@ -1,0 +1,9 @@
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\bin\Debug\JsonDecimalTest.exe.config
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\bin\Debug\JsonDecimalTest.exe
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\bin\Debug\JsonDecimalTest.pdb
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\obj\Debug\JsonDecimalTest.csprojAssemblyReference.cache
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\obj\Debug\JsonDecimalTest.csproj.CopyComplete
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\obj\Debug\JsonDecimalTest.exe
+C:\Users\AlexPC\source\repos\JsonDecimalTest\JsonDecimalTest\obj\Debug\JsonDecimalTest.pdb
